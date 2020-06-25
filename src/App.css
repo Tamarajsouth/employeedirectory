@@ -3,3 +3,38 @@
   padding: 100px;
 }
 
+.Container {
+  text-align: center;
+  padding: 10px;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.display-4 {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.employee-image {
+  border-radius: 20px;
+}
+
+.employee-name {
+  font-weight: bold;
+  text-align: center;
+}
+
+.desc {
+  text-align: center;
+}
+
+.form-group {
+  display: inline;
+  align-items: center;
+  text-align: center;
+}

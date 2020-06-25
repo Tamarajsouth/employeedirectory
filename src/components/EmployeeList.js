@@ -4,31 +4,31 @@ import "../App.css";
 class EmployeeList extends Component {
     render() {
         return (
-            <table>
-                <thead>
+            <table className="table">
+                <thead className="employee-table">
                 <tr>
                     <th>
 
                     </th>
-                    <th>
+                    {/* <th className="sort-by-column">
                         Name:
                     </th>
-                    <th>
+                    <th className="sort-by-column">
                         Email:
                     </th>
-                    <th>
-                        Cell:
-                    </th>
+                    <th className="sort-by-column">
+                        Phone Number:
+                    </th> */}
                 </tr>
                 </thead>
-                <tbody>
+                <tbody className="employee-data">
                 {this.props.users.map((employee, i) => {
                     return (
                         <tr key={i}>
                             <td>
-                                <img src={employee.picture.thumbnail} aria-hidden alt="Image"/>
+                                <img className="employee-image" src={employee.picture.thumbnail} aria-hidden alt="Image"/>
                             </td>
-                            <td>
+                            <td className="employee-name">
                                 {employee.name.first + " " + employee.name.last}
                             </td>
                             <td>

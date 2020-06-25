@@ -7,7 +7,7 @@ function Header(props) {
             <div className="jumbotron jumbotron-fluid">
                 <div className="container">
                     <h1 className="display-4">Employee Directory</h1>
-                    <p className="lead">Search and View Employees</p>
+                    <p className="desc">Search and View Employees</p>
                 </div>
                 <br/>
             </div>
