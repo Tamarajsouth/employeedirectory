@@ -3,7 +3,7 @@
 ## Overview
 
 My first React App! An employee directory! 
-Helped with comprehension of the application's UI into React elements consisting of components, management of those component states, and respond to user events. Given a table of random users, when the user loads the page, a table of employees should render. 
+Helped me with comprehension of a React application's UI. Divided into React elements consisting of components, management of those component states, and respond to user events. Given a table of random users, when the user loads the page, a table of employees should render. 
 
 ## User Story
 
@@ -21,10 +21,13 @@ The user should be able to:
 ## Technologies Utilized
   * jQuery
   * CSS/HTML
+  * Bootstrap
   * axios
   * node.js
   * Heroku
   * React!!
+### React 
+
 
 ## Screenshots of App
 <a href="https://ibb.co/0c3vDtb"><img src="https://i.ibb.co/ZVC7LmD/Screen-Shot-2020-06-26-at-5-39-43-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-43-PM" border="0"></a>
@@ -32,8 +35,9 @@ The user should be able to:
 <a href="https://ibb.co/644k2Jd"><img src="https://i.ibb.co/Zhh031Z/Screen-Shot-2020-06-26-at-5-40-09-PM.png" alt="Screen-Shot-2020-06-26-at-5-40-09-PM" border="0"></a>
 
 ## Links
-[deployed application](https://reactemployeedirectory01.herokuapp.com/)
+[Deployed Application via Heroku](https://reactemployeedirectory01.herokuapp.com/)
 
 ## Questions
+tjeansouth@gmail.com
 
 
