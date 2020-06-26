@@ -31,7 +31,7 @@ class Container extends React.Component {
         // which = the value of filteredUsers
         this.setState({filteredUsers: filteredEmployees});
     }
-    
+    // renders components to the dom using props
     render() {
         return (
             <div>
