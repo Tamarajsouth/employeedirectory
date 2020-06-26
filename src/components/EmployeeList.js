@@ -7,9 +7,6 @@ class EmployeeList extends Component {
             <table className="table">
                 <thead className="employee-table">
                 <tr>
-                    <th>
-
-                    </th>
                     {/* <th className="sort-by-column">
                         Name:
                     </th>

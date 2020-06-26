@@ -14,15 +14,15 @@ function Header(props) {
 
             <form>
             <div className="form-group">
-                <label>Search by Name:</label>
+                <label>Search by Name:<br></br></label>
                 <input className="form-control" id="exampleFormControlInput1" onChange={(event) => {props.search(event.target.value)}} />
             </div>
             <div className="form-group">
-                <label>Search by Email:</label>
+                <label>Search by Email:<br></br></label>
                 <input className="form-control" id="exampleFormControlInput1" onChange={(event) => {props.search(event.target.value)}} />
             </div>    
             <div className="form-group">
-                <label>Search by Phone #</label>
+                <label>Search by Phone #:<br></br></label>
                 <input className="form-control" id="exampleFormControlInput1" onChange={(event) => {props.search(event.target.value)}} />
             </div>
             </form>
