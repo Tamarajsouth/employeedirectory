@@ -2,20 +2,12 @@
 
 ## Overview
 
-An employee directory created with React. 
-Help comprehend application's UI into React elements consisting of components, management of those component states, and respond to user events.
+My first React App! An employee directory! 
+Helped with comprehension of the application's UI into React elements consisting of components, management of those component states, and respond to user events. Given a table of random users, when the user loads the page, a table of employees should render. 
 
 ## User Story
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
-
-## Business Context
-
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
-## Acceptance Criteria
-
-Given a table of random users, when the user loads the page, a table of employees should render. 
+* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information and to be able to filter employees by name, email, and phone number.
 
 The user should be able to:
 
@@ -23,13 +15,24 @@ The user should be able to:
 
   * Filter the users by at least one property.
 
-## Technologies Utilized
-
 ## Installation
+  ``` npm start ```
+
+## Technologies Utilized
+  * jQuery
+  * CSS/HTML
+  * axios
+  * node.js
+  * Heroku
+  * React!!
 
 ## Screenshots of App
+<a href="https://ibb.co/0c3vDtb"><img src="https://i.ibb.co/ZVC7LmD/Screen-Shot-2020-06-26-at-5-39-43-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-43-PM" border="0"></a>
+<a href="https://ibb.co/p3JXwVv"><img src="https://i.ibb.co/Jz5kt6R/Screen-Shot-2020-06-26-at-5-39-53-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-53-PM" border="0"></a>
+<a href="https://ibb.co/644k2Jd"><img src="https://i.ibb.co/Zhh031Z/Screen-Shot-2020-06-26-at-5-40-09-PM.png" alt="Screen-Shot-2020-06-26-at-5-40-09-PM" border="0"></a>
 
 ## Links
+[deployed application](https://reactemployeedirectory01.herokuapp.com/)
 
 ## Questions
 
