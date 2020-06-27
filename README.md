@@ -16,7 +16,7 @@ The user should be able to:
   * Filter the users by at least one property.
 
 ## Installation
-  ``` npm start ```
+  ``` $ npm start ```
 
 ## Technologies Utilized
   * jQuery
@@ -26,8 +26,6 @@ The user should be able to:
   * node.js
   * Heroku
   * React!!
-### React 
-
 
 ## Screenshots of App
 <a href="https://ibb.co/0c3vDtb"><img src="https://i.ibb.co/ZVC7LmD/Screen-Shot-2020-06-26-at-5-39-43-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-43-PM" border="0"></a>

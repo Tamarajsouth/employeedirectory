@@ -24,7 +24,7 @@ class EmployeeList extends Component {
                 <tbody className="employee-data">
                 {this.props.users.map((employee, i) => {
                     return (
-                        <tr key={i}>
+                            <tr className="results" key={i}>
                             <td>
                                 {/* thumbnail image */}
                                 <img className="employee-image" src={employee.picture.thumbnail} aria-hidden alt="Image"/>
