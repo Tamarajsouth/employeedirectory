@@ -35,6 +35,8 @@ The user should be able to:
 ## Links
 [Deployed Application via Heroku](https://reactemployeedirectory01.herokuapp.com/)
 
+[Deployed Application hosted by GitHub Pages] (https://tamarajsouth.github.io/employeedirectory/)
+
 ## Questions
 tjeansouth@gmail.com
 
