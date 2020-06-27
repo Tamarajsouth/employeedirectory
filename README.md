@@ -28,9 +28,9 @@ The user should be able to:
   * React!!
 
 ## Screenshots of App
-<a href="https://ibb.co/0c3vDtb"><img src="https://i.ibb.co/ZVC7LmD/Screen-Shot-2020-06-26-at-5-39-43-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-43-PM" border="0"></a>
-<a href="https://ibb.co/p3JXwVv"><img src="https://i.ibb.co/Jz5kt6R/Screen-Shot-2020-06-26-at-5-39-53-PM.png" alt="Screen-Shot-2020-06-26-at-5-39-53-PM" border="0"></a>
-<a href="https://ibb.co/644k2Jd"><img src="https://i.ibb.co/Zhh031Z/Screen-Shot-2020-06-26-at-5-40-09-PM.png" alt="Screen-Shot-2020-06-26-at-5-40-09-PM" border="0"></a>
+<a href="https://ibb.co/PDfwhQV"><img src="https://i.ibb.co/J3M57QS/Screen-Shot-2020-06-27-at-9-55-22-AM.png" alt="Screen-Shot-2020-06-27-at-9-55-22-AM" border="0"></a>
+<a href="https://ibb.co/hYgd8Qm"><img src="https://i.ibb.co/mNRyzZc/Screen-Shot-2020-06-27-at-9-55-33-AM.png" alt="Screen-Shot-2020-06-27-at-9-55-33-AM" border="0"></a>
+<a href="https://ibb.co/569SBVJ"><img src="https://i.ibb.co/Y3W1pGV/Screen-Shot-2020-06-27-at-9-55-48-AM.png" alt="Screen-Shot-2020-06-27-at-9-55-48-AM" border="0"></a>
 
 ## Links
 [Deployed Application via Heroku](https://reactemployeedirectory01.herokuapp.com/)
